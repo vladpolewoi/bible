@@ -1,2 +1,3 @@
 # bible
-Bible 
+
+Bible Not for commerce use
